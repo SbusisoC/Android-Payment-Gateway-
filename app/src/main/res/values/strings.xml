@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">My Payment App</string>
+    <string name="payment">PAYMENT</string>
+</resources>
